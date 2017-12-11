@@ -1,0 +1,14 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "Test app with live link",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaneisha Whipple",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
